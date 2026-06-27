@@ -1,4 +1,4 @@
-# Digital Logic Circuit Design using CircuitVerse
+# Task - 1 Digital Logic Circuit Design using CircuitVerse
 
 ## Project Highlights
 
