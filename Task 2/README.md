@@ -1,6 +1,6 @@
 # Task 2 - Verilog Combinational Circuit Design
 
-## Task Highlights
+## Highlights
 
 ✔ Verilog HDL Implementation
 
