@@ -1,6 +1,6 @@
-# Verilog Combinational Circuit Design
+# Task 2 - Verilog Combinational Circuit Design
 
-## Project Highlights
+## Task Highlights
 
 ✔ Verilog HDL Implementation
 
@@ -150,4 +150,6 @@ All circuits were successfully implemented using Verilog HDL and verified throug
 Electronics and Communication Engineering
 
 Dayananda Sagar Academy of Technology and Management (DSATM)
+
+VLSI Design Internship - Maincrafts Technology
 
