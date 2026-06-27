@@ -1,6 +1,6 @@
 # Task - 1 Digital Logic Circuit Design using CircuitVerse
 
-## Task Highlights
+## Highlights
 
 ✔ Basic Logic Gates Implementation
 
@@ -17,6 +17,8 @@
 Digital logic circuits are the fundamental building blocks of modern digital systems, computers, microprocessors, and VLSI circuits. This project focuses on the design and simulation of basic combinational logic circuits using the CircuitVerse simulator.
 
 The implemented circuits include basic logic gates, Half Adder, and Full Adder. Each circuit was verified using different input combinations and compared with its corresponding truth table to ensure correct functionality.
+
+This repository contains the implementation and simulation of fundamental digital logic gates and basic combinational circuits as part of the VLSI Design Internship at Maincrafts Technology.
 
 ---
 
