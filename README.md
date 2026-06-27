@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository documents my **16-week VLSI internship journey**, where each task helps strengthen my understanding of Digital Logic Design, Verilog HDL, simulation, waveform analysis, and fundamental VLSI concepts. Each completed task contributes to building practical knowledge and hands-on experience in digital design.
+This repository documents my **16-week VLSI internship journey**, where each task is designed to strengthen my understanding of Digital Logic Design, Verilog HDL, simulation and waveform analysis, and fundamental VLSI concepts. Each completed task contributes to building practical knowledge and hands-on experience in digital design.
 
 ### Repository Objectives
 
@@ -9,7 +9,7 @@ This repository documents my **16-week VLSI internship journey**, where each tas
 * 📂 Maintain organized reports, source code, simulations, and results.
 * 📈 Track my progress and build a portfolio for future VLSI opportunities.
 
-Each task folder contains the implementation files, reports, simulation results, observations, and other relevant resources. This repository will be updated regularly as I complete all **16 internship tasks**.
+Each task folder contains the implementation files, reports, simulation results, observations, and other relevant resources. This repository will continue to grow as I complete all **16 internship tasks**.
 
 ---
 
@@ -27,7 +27,10 @@ Each task includes:
 
 * 📄 Report
 * 💻 Design Files / Source Code
-* 📊 Simulation & Results
+* 📊 Simulation & Waveform Results
 * 📝 Observations
-* 📚 References 
+* 📚 References
 
+---
+
+This repository will be updated regularly as new internship tasks are completed throughout the **16-week VLSI internship**.
