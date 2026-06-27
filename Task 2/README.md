@@ -22,6 +22,8 @@ Verilog HDL (Hardware Description Language) is widely used for modeling, simulat
 
 The implemented circuits include basic logic gates, Half Adder, and Full Adder. Functional verification was performed using testbenches, and the outputs were analyzed using GTKWave waveforms to validate circuit functionality.
 
+This repository contains the implementation and simulation of fundamental digital logic gates and basic combinational circuits as part of the VLSI Design Internship at Maincrafts Technology.
+
 ---
 
 ## Documentation
