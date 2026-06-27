@@ -294,3 +294,4 @@ Electronics and Communication Engineering
 
 Dayananda Sagar Academy of Technology and Management
 
+VLSI Desgin Internship - Maincrafts Technology 
