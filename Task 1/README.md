@@ -1,6 +1,6 @@
 # Task - 1 Digital Logic Circuit Design using CircuitVerse
 
-## Project Highlights
+## Task Highlights
 
 ✔ Basic Logic Gates Implementation
 
