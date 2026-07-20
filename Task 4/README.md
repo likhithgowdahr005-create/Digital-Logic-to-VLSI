@@ -82,7 +82,8 @@ The **Moore Finite State Machine (FSM)** is a sequential circuit in which the ou
 
 **Moore FSM Waveform**
 
-> *(Insert your Moore FSM waveform image here after uploading it to the repository.)*
+![Moore FSM Waveform](simulation_waveforms/moore_waveform.png)
+
 
 ### Observation
 
@@ -98,7 +99,7 @@ The **Mealy Finite State Machine (FSM)** is a sequential circuit in which the ou
 
 **Mealy FSM Waveform**
 
-> *(Insert your Mealy FSM waveform image here after uploading it to the repository.)*
+![Mealy FSM Waveform](simulation_waveforms/mealy_waveform.png)
 
 ### Observation
 
@@ -114,7 +115,7 @@ The **Traffic Light Controller** is an FSM-based control unit that manages the s
 
 **Traffic Light Controller Waveform**
 
-> *(Insert your Traffic Light Controller waveform image here after uploading it to the repository.)*
+![Traffic Light Controller Waveform](simulation_waveforms/traffic_light_waveform.png)
 
 ### Observation
 
@@ -130,7 +131,7 @@ The **1011 Sequence Detector** is implemented using a Moore Finite State Machine
 
 **1011 Sequence Detector Waveform**
 
-> *(Insert your Sequence Detector waveform image here after uploading it to the repository.)*
+![Sequence Detector Waveform](simulation_waveforms/sequence_detector_waveform.png)
 
 ### Observation
 
