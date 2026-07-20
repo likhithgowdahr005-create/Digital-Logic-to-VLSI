@@ -34,7 +34,7 @@ This repository contains the implementation and simulation of FSM-based digital 
 
 📄 **Project Report**
 
-**RTL Design of Finite State Machines (FSM) and Control Units Report**
+**[Task 4 Report](task4_documentation/Verilog_HDL_Implementation_of_Finite_State_Machines.pdf)**
 
 ---
 
