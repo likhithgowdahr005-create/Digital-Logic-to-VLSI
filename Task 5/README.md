@@ -34,7 +34,7 @@ This repository contains the implementation and simulation of datapath and memor
 
 📄 **Project Report**
 
-**Verilog HDL Implementation of Datapath, ALU, and Memory Components Report**
+**[Verilog HDL Implementation of Datapath, ALU and Memory Components Report](task5_documentation/Verilog_HDL_Implementation_of_Datapath_ALU_and_Memory_Components.pdf)**
 
 ---
 
