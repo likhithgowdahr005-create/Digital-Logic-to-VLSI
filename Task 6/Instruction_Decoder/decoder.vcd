@@ -1,0 +1,44 @@
+$date
+	Thu Sep 10 10:46:38 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_decoder $end
+$var wire 3 ! alu_op [2:0] $end
+$var reg 3 " opcode [2:0] $end
+$scope module uut $end
+$var wire 3 # opcode [2:0] $end
+$var reg 3 $ alu_op [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 $
+b0 #
+b0 "
+b0 !
+$end
+#10000
+b1 !
+b1 $
+b1 "
+b1 #
+#20000
+b10 !
+b10 $
+b10 "
+b10 #
+#30000
+b11 !
+b11 $
+b11 "
+b11 #
+#40000
