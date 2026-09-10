@@ -96,7 +96,7 @@ The state sequence is:
 
 ### Control Unit Waveform
 
-[Control Unit Waveform](simulation_waveforms/control_unit_waveform.png)
+![Control Unit Waveform](simulation_waveforms/control_unit_waveform.png)
 
 ### Observation
 
@@ -119,7 +119,7 @@ The Instruction Decoder decodes the 3-bit opcode and generates the corresponding
 
 ### Instruction Decoder Waveform
 
-[Instruction Decoder Waveform](simulation_waveforms/decoder_waveform.png)
+![Instruction Decoder Waveform](simulation_waveforms/decoder_waveform.png)
 
 ### Observation
 
@@ -147,7 +147,7 @@ The processor uses an 8-bit instruction format:
 
 ### Processor Waveform
 
-[Processor Waveform](simulation_waveforms/processor_waveform.png)
+![Processor Waveform](simulation_waveforms/processor_waveform.png)
 
 ### Observation
 
