@@ -14,6 +14,8 @@
 
 ✔ ALU Integration and Instruction Execution
 
+✔ 8-bit Processor Instruction Format
+
 ✔ Icarus Verilog Simulation
 
 ✔ GTKWave Waveform Analysis
@@ -37,6 +39,43 @@ This repository contains the implementation and simulation of processor componen
 📄 **Project Report**
 
 [**Verilog HDL Implementation of Processor Components (Control Unit + Datapath Integration) Report**](task6_documentation/Verilog_HDL_Implementation_of_Processor_Components_Control_Unit_Datapath_Integration.pdf)
+
+---
+
+## Processor Architecture
+
+The basic processor architecture consists of an Instruction, Instruction Decoder, Control Unit FSM, ALU, and Result. The Instruction Decoder generates the required ALU control signal, while the Control Unit manages the processor control sequence.
+
+![Basic Processor Architecture](images/processor_architecture.png)
+
+---
+
+## Instruction Format
+
+The processor uses an 8-bit instruction format consisting of a 3-bit opcode, two 2-bit operand fields, and one unused bit.
+
+The instruction fields are:
+
+- Opcode: `instruction[7:5]`
+- Operand A: `instruction[4:3]`
+- Operand B: `instruction[2:1]`
+- Unused Bit: `instruction[0]`
+
+![8-bit Processor Instruction Format](images/instruction_format.png)
+
+---
+
+## Integrated Processor Datapath
+
+The integrated processor datapath combines the Instruction Decoder, Control Unit, and ALU to perform instruction-based operations.
+
+The basic data flow is:
+
+**Instruction → Instruction Decoder → ALU → Result**
+
+The Control Unit provides the FETCH, DECODE, and EXECUTE processor sequence.
+
+![Integrated Processor Datapath](images/integrated_processor_datapath.png)
 
 ---
 
@@ -131,17 +170,7 @@ The Instruction Decoder successfully decoded the supported opcode values and gen
 
 The Processor Datapath integrates the Control Unit, Instruction Decoder, and ALU to perform instruction-based operations.
 
-The basic data flow is:
-
-**Instruction → Instruction Decoder → ALU → Result**
-
-The Control Unit provides the FETCH, DECODE, and EXECUTE processor sequence.
-
-## Instruction Format
-
-The processor uses an 8-bit instruction format:
-
-**Opcode [7:5] | Operand A [4:3] | Operand B [2:1] | Unused [0]**
+The processor receives an 8-bit instruction and extracts the opcode and operand fields. The opcode is decoded to generate the ALU operation, while the operand fields are supplied to the ALU.
 
 ## Waveform Verification
 
@@ -166,7 +195,11 @@ The waveform also verified the FETCH → DECODE → EXECUTE sequence of the Cont
 
 ## Results
 
-All processor components were successfully implemented using Verilog HDL and verified through simulation using Icarus Verilog and GTKWave. The generated waveforms matched the expected behavior, confirming the correctness of the Control Unit, Instruction Decoder, and integrated Processor Datapath.
+All processor components were successfully implemented using Verilog HDL and verified through simulation using Icarus Verilog and GTKWave.
+
+The generated waveforms matched the expected behavior, confirming the correctness of the Control Unit, Instruction Decoder, and integrated Processor Datapath.
+
+The processor successfully performed ADD, SUB, AND, and OR operations using the defined 8-bit instruction format.
 
 ---
 
