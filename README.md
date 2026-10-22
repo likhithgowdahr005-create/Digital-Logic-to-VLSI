@@ -74,4 +74,3 @@ Successfully completed all six assigned tasks during the 16-week VLSI Design int
 
 **Likhith Gowda H R**
 
-GitHub: [likhithgowdahr005-create](https://github.com/likhithgowdahr005-create)
