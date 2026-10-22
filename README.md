@@ -50,18 +50,13 @@ All six assigned tasks have been completed. This repository serves as a technica
 ```text
 Digital-Logic-to-VLSI/
 ├── Task 1/
-│   └── README.md
 ├── Task 2/
-│   └── README.md
 ├── Task 3/
-│   └── README.md
 ├── Task 4/
-│   └── README.md
 ├── Task 5/
-│   └── README.md
 ├── Task 6/
-│   └── README.md
 └── README.md
+
 ```
 
 Each task folder contains its corresponding implementation resources and documentation. Refer to the individual task README files for details about the design and verification work.
